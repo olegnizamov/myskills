@@ -6,63 +6,60 @@
 ## Навыки
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-|               Skill               | 1<br>Basics   | 2<br>Good     | 3<br>Confident | 
-|:---------------------------------:|:-------------:|:-------------:|:--------------:|
-|**PHP**                            | ![done][done] | ![done][done] |                | 
-|**PHP - Laravel**                  |               |               |                |
-|**PHP - Symfony**                  |               |               |                |
-|**PHP - Yii2**                     |               |               |                |
-|**PHP - Yii3**                     |               |               |                |
-|**PHP - Bitrix(Бус)**              | ![done][done] | ![done][done] |                | 
-|**PHP - Bitrix(B24)**              | ![done][done] | ![done][done] |                | 
-|**БД - MongoDb**                   |               |               |                |
-|**БД - Mysql**                     | ![done][done] |               |                |
-|**БД - Postgresql**                |               |               |                |
-|**БД - Clickhouse**                |               |               |                |
-|**БД - Oracle**                    |               |               |                |
-|**БД - Redis**                     |               |               |                |
-|**Брокер очередей - RabbitMQ**     |               |               |                |
-|**Брокер очередей - Kafka**        |               |               |                |
-|**Docker**                         |               |               |                |
-|**Kubernetes**                     |               |               |                |
-|**Command line**                   | ![done][done] |               |                |
-|**Markdown**                       | ![done][done] |               |                |
-|**JavaScript & ES6**               |               |               |                |
-|**JS - JQUERY**                    |               |               |                |
-|**JS - AngularJS**                 |               |               |                |
-|**JS - Angular**                   |               |               |                |
-|**JS - React & Redux**             |               |               |                |
-|**JS - Vue.js**                    |               |               |                |
-|**JS - TypeScript**                |               |               |                |
-|**JS - Node.js & NPM**             |               |               |                |
-|**Haskell**                        |               |               |                |
-|**F#**                             |               |               |                |
-|**Верстка**                        |               |               |                |
-|**Css Grid & Flex-box**            |               |               |                |
-|**HTML5 & CSS3**                   | ![done][done] |               |                |
-|**PYTHON - Django**                |               |               |                |
-|**PYTHON - FLASK**                 | ![done][done] |               |                |
-|**PYTHON - FastAPI**               |               |               |                |
-|**Ruby**                           |               |               |                |
-|**Rust**                           |               |               |                |
-|**Go**                             |               |               |                |
-|**JAVA**                           |               |               |                |
-|**Kotlin**                         |               |               |                |
-|**C++**                            |               |               |                |
-|**C# / .NET & .NET Core**          | ![done][done] |               |                |
-|**C# - WPF**                       |               |               |                |
-|**C# - Entity Framework**          |               |               |                |
-|**C# - Xamarin**                   |               |               |                |
-|**ASP.NET MVC & ASP.NET Core**     |               |               |                |
-|**Flutter**                        |               |               |                |
-|**Git bash & GitHub**              | ![done][done] |               |                |
-|**Task runners Gulp/Grunt**        |               |               |                |
-|**Open Source Contribution**       |               |               |                |
-|**Яндекс навыки**                  |               |               |                |
+|               Skill               | 1<br>Introduction   | 2<br>Basics     | 3<br>Good | 4<br>Pretty Good |5<br>Confident |6<br>Awesome |
+|:---------------------------------:|:-------------:|:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|
+|**PHP**                            | ![done][done] | ![done][done] |   ![done][done] |                 |                |                |
+|**PHP - Laravel**                  |               |               |                |                 |                |                |
+|**PHP - Symfony**                  |               |               |                |                 |                |                |
+|**PHP - Yii2**                     |               |               |                |                 |                |                |
+|**PHP - Yii3**                     |               |               |                |                 |                |                |
+|**PHP - Bitrix(Бус)**              | ![done][done] | ![done][done] |                |                  |                |                |
+|**PHP - Bitrix(B24)**              | ![done][done] | ![done][done] |                |                  |                |                |
+|**БД - MongoDb**                   |               |               |                |                 |                |                |
+|**БД - Mysql**                     | ![done][done] |               |                |                 |                |                |
+|**БД - Postgresql**                |               |               |                |                 |                |                |
+|**БД - Clickhouse**                |               |               |                |                 |                |                |
+|**БД - Oracle**                    |               |               |                |                 |                |                |
+|**БД - Redis**                     |               |               |                |                 |                |                |
+|**Брокер очередей - RabbitMQ**     |               |               |                |                 |                |                |
+|**Брокер очередей - Kafka**        |               |               |                |                 |                |                |
+|**Docker**                         |               |               |                |                 |                |                |
+|**Kubernetes**                     |               |               |                |                 |                |                |
+|**Command line**                   | ![done][done] |               |                |                 |                |                |
+|**Markdown**                       | ![done][done] |               |                |                 |                |                |
+|**JavaScript & ES6**               |               |               |                |                 |                |                |
+|**JS - JQUERY**                    |               |               |                |                 |                |                |
+|**JS - AngularJS**                 |               |               |                |                 |                |                |
+|**JS - Angular**                   |               |               |                |                 |                |                |
+|**JS - React & Redux**             |               |               |                |                 |                |                |
+|**JS - Vue.js**                    |               |               |                |                 |                |                |
+|**JS - TypeScript**                |               |               |                |                 |                |                |
+|**JS - Node.js & NPM**             |               |               |                |                 |                |                |
+|**Haskell**                        |               |               |                |                 |                |                |
+|**F#**                             |               |               |                |                 |                |                |
+|**Верстка**                        |               |               |                |                 |                |                |
+|**Css Grid & Flex-box**            |               |               |                |                 |                |                |
+|**HTML5 & CSS3**                   | ![done][done] |               |                |                 |                |                |
+|**PYTHON - Django**                |               |               |                |                 |                |                |
+|**PYTHON - FLASK**                 | ![done][done] |               |                |                 |                |                |
+|**PYTHON - FastAPI**               |               |               |                |                 |                |                |
+|**Ruby**                           |               |               |                |                 |                |                |
+|**Rust**                           |               |               |                |                 |                |                |
+|**Go**                             |               |               |                |                 |                |                |
+|**JAVA**                           |               |               |                |                 |                |                |
+|**Kotlin**                         |               |               |                |                 |                |                |
+|**C++**                            |               |               |                |                 |                |                |
+|**C# / .NET & .NET Core**          | ![done][done] |               |                |                 |                |                |
+|**C# - WPF**                       |               |               |                |                 |                |                |
+|**C# - Entity Framework**          |               |               |                |                 |                |                |
+|**C# - Xamarin**                   |               |               |                |                 |                |                |
+|**ASP.NET MVC & ASP.NET Core**     |               |               |                |                 |                |                |
+|**Flutter**                        |               |               |                |                 |                |                |
+|**Git bash & GitHub**              | ![done][done] |               |                |                 |                |                |
+|**Task runners Gulp/Grunt**        |               |               |                |                 |                |                |
+|**Open Source Contribution**       |               |               |                |                 |                |                |
+|**Яндекс навыки**                  |               |               |                |                 |                |                |
 
-* Basics - знаю синтаксис, есть пару написанных проектов
-* Good - есть интересный реализованный проект на данной технологии в гите. 
-* Confident - знаю + и - данной технологии. Могу провести митап на 1 час по данной технологии.
 ----
 
 ## Курсы
