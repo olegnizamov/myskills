@@ -13,8 +13,8 @@
 |**PHP - Symfony**                  |               |               |                |                 |                |                |
 |**PHP - Yii2**                     |  ![done][done]  |               |                |                 |                |                |
 |**PHP - Yii3**                     |               |               |                |                 |                |                |
-|**PHP - Bitrix(Бус)**              | ![done][done] | ![done][done] |                |                  |                |                |
-|**PHP - Bitrix(B24)**              | ![done][done] | ![done][done] |                |                  |                |                |
+|**PHP - Bitrix(Бус)**              | ![done][done] | ![done][done] |  ![done][done]  |                  |                |                |
+|**PHP - Bitrix(B24)**              | ![done][done] | ![done][done] |  ![done][done]  |                  |                |                |
 |**БД - MongoDb**                   |               |               |                |                 |                |                |
 |**БД - Mysql**                     | ![done][done] |               |                |                 |                |                |
 |**БД - Postgresql**                |  ![done][done]  |               |                |                 |                |                |
