@@ -8,31 +8,31 @@
 
 |               Skill               | 1<br>Introduction   | 2<br>Basics     | 3<br>Good | 4<br>Pretty Good |5<br>Confident |6<br>Awesome |
 |:---------------------------------:|:-------------:|:-------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-|**PHP**                            | ![done][done] | ![done][done] |   ![done][done] |                 |                |                |
-|**PHP - Laravel**                  |               |               |                |                 |                |                |
+|**PHP**                            | ![done][done] | ![done][done] |   ![done][done] | ![done][done]   |                |                |
+|**PHP - Laravel**                  | ![done][done]  |               |                |                 |                |                |
 |**PHP - Symfony**                  |               |               |                |                 |                |                |
-|**PHP - Yii2**                     |               |               |                |                 |                |                |
+|**PHP - Yii2**                     |  ![done][done]  |               |                |                 |                |                |
 |**PHP - Yii3**                     |               |               |                |                 |                |                |
 |**PHP - Bitrix(Бус)**              | ![done][done] | ![done][done] |                |                  |                |                |
 |**PHP - Bitrix(B24)**              | ![done][done] | ![done][done] |                |                  |                |                |
 |**БД - MongoDb**                   |               |               |                |                 |                |                |
 |**БД - Mysql**                     | ![done][done] |               |                |                 |                |                |
-|**БД - Postgresql**                |               |               |                |                 |                |                |
-|**БД - Clickhouse**                |               |               |                |                 |                |                |
-|**БД - Oracle**                    |               |               |                |                 |                |                |
-|**БД - Redis**                     |               |               |                |                 |                |                |
-|**Брокер очередей - RabbitMQ**     |               |               |                |                 |                |                |
-|**Брокер очередей - Kafka**        |               |               |                |                 |                |                |
-|**Docker**                         |               |               |                |                 |                |                |
+|**БД - Postgresql**                |  ![done][done]  |               |                |                 |                |                |
+|**БД - Clickhouse**                |  ![done][done] |               |                |                 |                |                |
+|**БД - Oracle**                    |  ![done][done]  |               |                |                 |                |                |
+|**БД - Redis**                     |  ![done][done]  |               |                |                 |                |                |
+|**Брокер очередей - RabbitMQ**     |  ![done][done]  |               |                |                 |                |                |
+|**Брокер очередей - Kafka**        |  ![done][done]  |               |                |                 |                |                |
+|**Docker**                         |  ![done][done]  |  ![done][done]  |                |                 |                |                |
 |**Kubernetes**                     |               |               |                |                 |                |                |
 |**Command line**                   | ![done][done] |               |                |                 |                |                |
 |**Markdown**                       | ![done][done] |               |                |                 |                |                |
 |**JavaScript & ES6**               |               |               |                |                 |                |                |
-|**JS - JQUERY**                    |               |               |                |                 |                |                |
+|**JS - JQUERY**                    |  ![done][done]   |   ![done][done]    |                |                 |                |                |
 |**JS - AngularJS**                 |               |               |                |                 |                |                |
 |**JS - Angular**                   |               |               |                |                 |                |                |
 |**JS - React & Redux**             |               |               |                |                 |                |                |
-|**JS - Vue.js**                    |               |               |                |                 |                |                |
+|**JS - Vue.js**                    |   ![done][done]                |                |                 |                |                |
 |**JS - TypeScript**                |               |               |                |                 |                |                |
 |**JS - Node.js & NPM**             |               |               |                |                 |                |                |
 |**Haskell**                        |               |               |                |                 |                |                |
@@ -45,20 +45,20 @@
 |**PYTHON - FastAPI**               |               |               |                |                 |                |                |
 |**Ruby**                           |               |               |                |                 |                |                |
 |**Rust**                           |               |               |                |                 |                |                |
-|**Go**                             |               |               |                |                 |                |                |
-|**JAVA**                           |               |               |                |                 |                |                |
-|**Kotlin**                         |               |               |                |                 |                |                |
+|**Go**                             |  ![done][done]  |               |                |                 |                |                |
+|**JAVA**                           |   ![done][done] |               |                |                 |                |                |
+|**Kotlin**                         |  ![done][done]  |               |                |                 |                |                |
 |**C++**                            |               |               |                |                 |                |                |
 |**C# / .NET & .NET Core**          | ![done][done] |               |                |                 |                |                |
 |**C# - WPF**                       |               |               |                |                 |                |                |
 |**C# - Entity Framework**          |               |               |                |                 |                |                |
 |**C# - Xamarin**                   |               |               |                |                 |                |                |
 |**ASP.NET MVC & ASP.NET Core**     |               |               |                |                 |                |                |
-|**Flutter**                        |               |               |                |                 |                |                |
-|**Git bash & GitHub**              | ![done][done] |               |                |                 |                |                |
+|**Flutter**                        |   ![done][done]  |               |                |                 |                |                |
+|**Git bash & GitHub**              | ![done][done] |  ![done][done]  | ![done][done]    |                 |                |                |
 |**Task runners Gulp/Grunt**        |               |               |                |                 |                |                |
 |**Open Source Contribution**       |               |               |                |                 |                |                |
-|**Яндекс навыки**                  |               |               |                |                 |                |                |
+|**Яндекс навыки**                  |  ![done][done]   |  ![done][done]  |                |                 |                |                |
 
 ----
 
