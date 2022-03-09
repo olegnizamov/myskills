@@ -183,7 +183,9 @@
 
 ## Полезные книги
 
-* Мама, я тимлид! Практические советы по руководству IT-командой | Перескокова Марина
+* [Мама, я тимлид! Практические советы по руководству IT-командой | Перескокова Марина](https://www.ozon.ru/product/mama-ya-timlid-prakticheskie-sovety-po-rukovodstvu-it-komandoy-pereskokova-marina-336443175/) - 24 февраля 2022
+* [Настольная книга тимлида разработки ПО](https://www.ozon.ru/product/nastolnaya-kniga-timlida-razrabotki-po-461290749/) - 07 марта 2022
+
 
 In progress
 
