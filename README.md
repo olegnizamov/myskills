@@ -117,7 +117,9 @@
 | ![Completed]"Completed" |      | [Высшая Школа Программирования Сергея Бобровского] - 2-й курс по highload-системам                                                      |                                           Не подразумевает                                           |
 | ![Completed]"Completed" |      | [Высшая Школа Программирования Сергея Бобровского] - 3-й курс по highload-системам                                                      |                                           Не подразумевает                                           |
 | ![Completed]"Completed" |      | [Высшая Школа Программирования Сергея Бобровского] - Ясное Легаси                                                                           |                                           Не подразумевает                                           |
-| ![Completed]"Completed" | 2022 | [Стратоплан - TeamLead101]                                                                                                                                                               |                                      [teamlead101.pdf](/files/teamlead101.pdf)                                      |
+| ![Completed]"Completed" | 2022 | [Нетология - Devops]                                                                                                                                                               |                                      [certificate.pdf](/files/certificate.pdf)                                      |
+| ![Completed]"Completed" | 2022 | [Тензор - Devops]                                                                                                                                                               |                                      [DevOps_Part76.pdf](/files/DevOps_Part76.pdf)                                      |
+
 
 ---
 
